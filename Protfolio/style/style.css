@@ -1,0 +1,40 @@
+.header img {
+    float: left;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .header h1 {
+    position: relative;
+    top: 20px;
+    left: 15px;
+  }
+
+  .header h3 {
+      position: relative;
+      left: 15px;
+   }
+
+   .wrapper{
+       display: grid;
+       grid-template-columns: 33% 33% 33%;
+   }
+
+   .work-feature{
+       height: 420px;
+   }
+
+   #center-image{
+       height: 100%;
+       width: 100%
+   }
+
+   .work-images{
+       width: 33%;
+       height: 100%;
+       vertical-align: middle;
+   }
+
+   .content{
+       align-content: center
+   }
