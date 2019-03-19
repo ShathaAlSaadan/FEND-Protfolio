@@ -26,7 +26,7 @@
 
    #center-image{
        height: 100%;
-       width: 100%
+       width: 100%;
    }
 
    .work-images{
@@ -36,5 +36,5 @@
    }
 
    .content{
-       align-content: center
+       align-content: center;
    }
